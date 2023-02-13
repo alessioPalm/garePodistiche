@@ -1,0 +1,16 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring?useSSL=false
+    username: root
+    password: Alessio2018*
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+
+
+
+
